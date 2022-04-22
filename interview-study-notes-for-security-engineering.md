@@ -224,6 +224,7 @@ Where did these notes come from? See the [README](README.md).
 	- Streaming can slow network TCP connections sharing the same network.
 
 - ICMP 
+	- Internet Control Message Protocol
 	- Ping and traceroute.
 
 - Mail

@@ -138,7 +138,9 @@ Where did these notes come from? See the [README](README.md).
 # Networking 
 
 - OSI Model
-	- Application; layer 7 (and basically layers 5 & 6) (includes API, HTTP, etc).
+	- Application; layer 7 (Human-computer interaction. Apps access network services)
+	- Presenration; layer 6 (HTTP).
+	- Session; layer 5 (API).
 	- Transport; layer 4 (TCP/UDP).
 	- Network; layer 3 (Routing).
 	- Datalink; layer 2 (Error checking and frame synchronisation).

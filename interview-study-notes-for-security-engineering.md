@@ -241,22 +241,26 @@ Where did these notes come from? See the [README](README.md).
 	- Allows remote communication with hosts.
 
 - ARP  
+	- Address Resolution Protocol is a communication protocol used for discovering the link layer address, such as a MAC address, associated with a 	given internet layer address, typically an IPv4 address.
 	- Who is 0.0.0.0? Tell 0.0.0.1.
 	- Linking IP address to MAC, Looks at cache first.
 
 - DHCP 
+	- Dynamic Host Configuration Protocol
 	- (67, 68) (546, 547)
 	- Dynamic (leases IP address, not persistent).
 	- Automatic (leases IP address and remembers MAC and IP pairing in a table).
 	- Manual (static IP set by administrator).
 
 - IRC 
+	- Internet Relay Chat
 	- Understand use by hackers (botnets).
 
 - FTP/SFTP 
 	- (21, 22)
 
 - RPC 
+	- Remote procedure call
 	- Predefined set of tasks that remote clients can execute.
 	- Used inside orgs. 
 

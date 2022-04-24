@@ -246,7 +246,7 @@ Where did these notes come from? See the [README](README.md).
 	- Linking IP address to MAC, Looks at cache first.
 
 - DHCP 
-	- Dynamic Host Configuration Protocol
+	- Dynamic Host Configuration Protocol is a client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address 	and other related configuration information such as the subnet mask and default gateway.
 	- (67, 68) (546, 547)
 	- Dynamic (leases IP address, not persistent).
 	- Automatic (leases IP address and remembers MAC and IP pairing in a table).
